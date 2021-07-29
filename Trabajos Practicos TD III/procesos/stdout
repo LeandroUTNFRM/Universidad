@@ -1,0 +1,36 @@
+//Respuesta: 
+//No se observa nada en consola ya que se envia el resultado del comando al 
+//archivo "stdout"
+//con el comando "cat stdout" se muestra el contenido del archivo stdout en 
+//pantalla (salida estandar)
+
+total 332
+drwxrwx--- 2 dandrea dandrea  4096 jul 24 15:46 .
+drwxr-xr-x 3 dandrea dandrea  4096 jul 23 16:14 ..
+-rwxrwxr-x 1 dandrea dandrea 16832 jul 23 16:15 prc01
+-rwxrwx--- 1 dandrea dandrea   575 jul 23 16:23 prc01.c
+-rwxrwxr-x 1 dandrea dandrea 16912 jul 23 16:24 prc02
+-rwxrwx--- 1 dandrea dandrea   411 jul 23 17:07 prc02.c
+-rwxrwx--- 1 dandrea dandrea     0 jul 23 17:43 prc02.c.save
+-rwxrwxr-x 1 dandrea dandrea 16912 jul 23 16:27 prc03
+-rwxrwx--- 1 dandrea dandrea   344 abr  4  2019 prc03.c
+-rwxrwxr-x 1 dandrea dandrea 16872 jul 23 16:49 prc04
+-rw-rw-r-- 1 dandrea dandrea   659 jul 23 18:02 prc04.c
+-rwxrwxr-x 1 dandrea dandrea 16824 jul 23 16:53 prc05
+-rwxrwx--- 1 dandrea dandrea   869 jul 23 16:53 prc05.c
+-rwxrwxr-x 1 dandrea dandrea 16824 jul 23 17:02 prc06
+-rw-rw-r-- 1 dandrea dandrea   946 jul 23 18:03 prc06.c
+-rwxrwxr-x 1 dandrea dandrea 16912 jul 23 17:18 prc07
+-rw-rw-r-- 1 dandrea dandrea   965 jul 23 18:03 prc07.c
+-rwxrwxr-x 1 dandrea dandrea 16872 jul 23 17:40 prc08
+-rw-rw-r-- 1 dandrea dandrea   742 jul 23 18:03 prc08.c
+-rwxrwxr-x 1 dandrea dandrea 16960 jul 23 17:38 prc09
+-rw-rw-r-- 1 dandrea dandrea   817 jul 23 18:03 prc09.c
+-rwxrwxr-x 1 dandrea dandrea 16824 jul 23 18:07 prc10
+-rw-rw-r-- 1 dandrea dandrea   800 jul 23 18:07 prc10.c
+-rwxrwxr-x 1 dandrea dandrea 16824 jul 23 18:04 prc11
+-rw-rw-r-- 1 dandrea dandrea   751 jul 23 18:08 prc11.c
+-rwxrwx--- 1 dandrea dandrea    86 abr  4  2019 prc13.sh
+-rwxrwx--- 1 dandrea dandrea   450 abr  4  2019 prc15.c
+-rw-rw-r-- 1 dandrea dandrea     0 jul 24 15:46 stdout
+-rwxrwx--- 1 dandrea dandrea 49235 jul 23 15:30 TP_Procesos_v009.pdf
